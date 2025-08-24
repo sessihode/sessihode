@@ -1,11 +1,39 @@
 ![proxy-image](https://github.com/user-attachments/assets/d8e3e13f-df4a-48d7-b659-79b63974beca)
 -## 👋 Hi, I’m AYWADHUN Yao Fiorentin and I’m a Data Analyst
 
-- 🌱 I’m interested in data analysis, machine learning, and business intelligence
-- 💻 I’m currently learning Python (Pandas, NumPy), SQL, Power BI, and Tableau
-- 🤝 I’m looking to collaborate on data-driven projects, open-source dashboards, or analytics reports
-- 📫 How to reach me: ayiwahounf@gmail.com |
-- [LinkedIn](https://www.linkedin.com/in/yao-florentin-ayiwahoun-b28365262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🌱 Je suis **passionné par la Data et l’Intelligence Artificielle**, avec une solide formation en **Statistique & Économétrie** et une spécialisation en **Analyse de données et IA appliquée**.  
+🎯 **Mon objectif :** Transformer les données en décisions stratégiques.
+
+---
+
+## 🚀 **À propos de moi**
+✔ **Formation :**  
+- 🎓 Licence Pro en **Statistique & Économétrie**  
+- 🏅 Certification en **Analyse des données et Intelligence Artificielle** *(Africa TechUp Tour 2024 – EPITECH)*  
+- 🏅 Certifications en **Gestion et Suivi-Évaluation des Projets**  
+- 📚 Actuellement en parcours **Data Science & IA** *(Python, SQL, Tableau, Power BI)*  
+
+💡 **Passionné par :**  
+- La **découverte de solutions IA pour la communauté**  
+- La **valorisation des données pour la prise de décision**  
+- L’**innovation sociale via la technologie**  
+
+✔ **Expériences clés :**  
+- 👨‍🏫 Enseignant de Mathématiques *(2015-2021)*  
+- 🧾 Agent Recenseur *(Politique Nationale Santé Communautaire – 2023)*  
+- 📊 Stagiaire **DGAE** *(Analyse économique)*  
+- 🤖 **Data Analyst** au projet **IA pour l’orientation académique et professionnelle** *(Africa TechUp Tour 2024)*  
+
+✔ **Compétences :**  
+✅ **Python** *(Pandas, NumPy, Scikit-learn, Matplotlib)*  
+✅ **SQL** *(MySQL, PostgreSQL)*  
+✅ **Business Intelligence** *(Power BI, Tableau)*  
+✅ **Data Engineering** *(ETL, Pipelines)*  
+✅ **IA appliquée & ChatGPT**  
+✅ **Visualisation & storytelling avec les données**  
+
+- 📫 How to reach me: florentinayiwahoun@gmail.com |
+- [LinkedIn](https://www.linkedin.com/in/yaoflorentinayiwahoun
 [facebook](https://www.facebook.com/florentin.ayiwahoun?mibextid=JRoKGi)
 ---
 
